@@ -1,0 +1,6 @@
+zayt-olive-oil/
+│
+├── index.html
+└── images/
+    ├── olive-branch.png       ← Your uploaded olive branch photo
+    └── zayt-logo.png          ← Your generated Zayt logo
